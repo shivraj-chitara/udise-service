@@ -1,0 +1,6 @@
+{
+  "serviceName": "udise-service",
+  "mongodb": {
+    "host": "udise.foel4ay.mongodb.net"
+  }
+}
